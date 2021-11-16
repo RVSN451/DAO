@@ -58,3 +58,4 @@ INSERT ORDERS (customer_id, product_name, amount)
 VALUES (4, 'Car', 2);
 
 
+
