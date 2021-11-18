@@ -1,0 +1,6 @@
+databaseChangelog:
+
+  -include:
+    file: migrations/001__orders.sql
+    relativeToChangelogFile: true
+

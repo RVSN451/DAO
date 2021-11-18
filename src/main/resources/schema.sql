@@ -53,7 +53,6 @@ VALUES (3, 'Oil', 1);
 INSERT ORDERS (customer_id, product_name, amount)
 VALUES (1, 'Gas', 1);
 
-
 INSERT ORDERS (customer_id, product_name, amount)
 VALUES (4, 'Car', 2);
 
