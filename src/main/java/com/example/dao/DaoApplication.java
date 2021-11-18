@@ -1,4 +1,4 @@
-package com.example.dao.app;
+package com.example.dao;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
